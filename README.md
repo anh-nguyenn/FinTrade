@@ -149,7 +149,7 @@ FinTrade/
 - `PUT /api/admin/users/{id}` - Update user
 - `DELETE /api/admin/users/{id}` - Delete user
 
-## 🎯 Usage
+## Usage
 
 1. **Register/Login**: Create an account or login with existing credentials
 2. **Add Transactions**: Record buy/sell transactions
@@ -164,7 +164,7 @@ FinTrade/
 - Role-based access control
 - Input validation and sanitization
 
-## 🚀 Deployment
+## Deployment
 
 ### Backend Deployment
 
